@@ -1,0 +1,28 @@
+name: WiseSky
+favicon: null
+layout_spectrum: 0.06852558348327875
+typography_spectrum: 0.5256885557901114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.03902185405604541
+  lightness: 0.6161542914342135
+  saturation: 0.1934674030635506
+  rhythmicContrast: 0.3648620012681931
+purpose: []
