@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WiseSky]]></title>
+        <description><![CDATA[WiseSky]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 18:27:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Panasonic claims to have created the worlds best weather model]]></title>
+            <description><![CDATA[<article><h1>Panasonic claims to have created the worlds best weather model</h1><p>"For a long time, weather forecasting was largely the domain of governments, with the National Weather Service leading the way in the United States. During the last two decades, however, the private weather forecasting industry—which includes well-known companies such as AccuWeather and many hundreds of smaller businesses—has grown up and is now estimated to be worth as much as $6 billion."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87eaf83f-aba2-4136-804a-e591d40c3ceb.jpg"></article>]]></description>
+            <link>undefinedpanasonic-claims-to-have-created-the-worlds-best-weather-mod/index.html</link>
+            <guid isPermaLink="false">6cecd268-8209-44d0-bf10-d5e41c1206e4</guid>
+            <pubDate>Wed, 06 Apr 2016 18:27:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
